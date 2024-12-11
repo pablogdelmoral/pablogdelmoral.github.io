@@ -21,22 +21,22 @@ repository               : "pablogdelmoral/pablogdelmoral.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Pablo García Del Moral"
   pronouns         : # example: "she/her"  
   bio              : "Aspiring Data Scientist - AI and Machine Learning Enthusiast"
   location         : "Mexico City"
-  employer         : "Red Brick University"
+  employer         : "Instituto Tecnológico Autónomo de México"
   uri              : # URL
   email            : "pgarci69@itam.mx" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
