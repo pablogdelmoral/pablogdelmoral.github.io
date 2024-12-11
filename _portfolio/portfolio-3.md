@@ -1,6 +1,6 @@
 ---
-title: "Project - GLMNET"
-excerpt: "ML project of GLMNET<br/><img src='/images/glmnet.png'>"
+title: "Project - Clustering"
+excerpt: "ML project of Clustering<br/><img src='/images/clustering.png'>"
 collection: portfolio
 ---
 
