@@ -11,54 +11,45 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Instituto Tecnológico Autónomo de México**, Altavista, Mexico City  
+  *Data Science and Applied Mathematics (double major)*, 9.16/10. August 2022 - Present  
+  Relevant Coursework: Linear Algebra, Multivariate Calculus, Data Structures, Probability  
+  * Engineering School Academic Excellence Award  
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Universidad Panamericana**, Huixquilucan, Edo. De Mex  
+  *Quantitative Finance*, 9.45/10. August 2021 - June 2022  
+  Relevant Coursework: Microeconomics, Macroeconomics, Introduction to Finance  
+  * Class rank 1st  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Northridge School Mexico (Highschool)**, Cuajimalpa, Mexico City  
+  Grade Point Average: 9.0/10. August 2017 - June 2021  
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Northridge Preparatory School (Exchange Program)**, Niles, Illinois  
+  Grade Point Average: 9.3/10. August 2019 - October 2019  
+  * Dean’s List Academic Achievement Award  
 
-Publications
+Extracurriculars
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* **University Academy Arx**, Del Valle Centro, Mexico City  
+  *Honorary Member*, February 2022 – Present  
+  - Participating in a research project on the nature and application of power law distributions to different scientific fields with Dr. Fernando Buendía.  
+  - Writing a research paper with Dr. Luis Montiel on artificial intelligence and machine learning in finance.  
+  - Building the syllabi and developing the logistics of STEM High School in Mexico City.  
+  - Leader of the program designated to aid high school students to enter world-class undergraduate programs.  
+  - [https://arx.academy/](https://arx.academy/)  
+
+* **Chavos Educando**, Cuajimalpa, Mexico City  
+  *Co-founder*, April 2021 – June 2022  
+  - Helped found and coordinate a system to better the education of low-income children in Mexico.  
+  - Tutored students on math and physics topics.  
+  - [https://www.chavoseducando.com/](https://www.chavoseducando.com/)  
+
+* **Violin Performance**, Cuajimalpa, Mexico City  
+  - Individual performance: ABRSM Violin Performance Exam level 4.  
+  - Participated in the Northridge School Orchestra, which gave me the opportunity to play in China and Hong Kong.  
+
+Skills & Interests
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Technical**: Application of artificial intelligence and machine learning in finance. Complex systems.  
+* **Language**: Spanish (Native), English (Fluent), French (Beginner).  
+* **Interests**: Violin, Ensemble performance, Soccer, Languages, Philosophy.  
