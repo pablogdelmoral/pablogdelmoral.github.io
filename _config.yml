@@ -24,11 +24,11 @@ author:
   avatar           : "profile.png"
   name             : "Pablo García Del Moral"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Aspiring Data Scientist - AI and Machine Learning Enthusiast"
+  location         : "Mexico City"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "pgarci69@itam.mx" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
